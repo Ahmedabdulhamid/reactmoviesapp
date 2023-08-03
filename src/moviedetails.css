@@ -1,0 +1,40 @@
+.background{
+  position: relative;
+  background-size: cover;
+}
+.background::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0,60%);
+}
+.zindex{
+    z-index: 5000;
+    
+}
+.zeindex{
+    z-index: 5000;
+   
+  
+}
+.xz{
+  
+    z-index: 5000;
+}
+
+
+
+
+
+
+
+
+.x{
+    font-size: 36px;
+    font-weight: bolder;
+}
+.xs{
+    display: inline-block;
+}

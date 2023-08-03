@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ae84ea6.css",
+    "main.js": "/static/js/main.7fe916eb.js",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/glyphicons-basic-4-user-grey-svg": "/static/media/glyphicons-basic-4-user-grey-d8fe957375e70239d6abdd549fd7568c89281b2179b5f4470e2e12895792dfa5.ca7765f773a4ef0ee410e652a2a887d3.svg",
+    "static/media/glyphicons-basic-38-picture-grey-svg": "/static/media/glyphicons-basic-38-picture-grey-c2ebdbb057f2a7614185931650f8cee23fa137b93812ccb132b9df511df1cfac.f9db13c5f6963815666d104105243935.svg",
+    "index.html": "/index.html",
+    "main.9ae84ea6.css.map": "/static/css/main.9ae84ea6.css.map",
+    "main.7fe916eb.js.map": "/static/js/main.7fe916eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae84ea6.css",
+    "static/js/main.7fe916eb.js"
+  ]
+}
